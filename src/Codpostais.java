@@ -6,6 +6,8 @@ public class Codpostais {
   private long codpostal;
   private String localidade;
 
+  public Codpostais() {
+  }
 
   public long getCodpostal() {
     return codpostal;
